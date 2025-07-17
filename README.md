@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o bimaraujo!
+# 👋 Olá, eu sou o Fábio Laurindo Araujo!
 
 Sou desenvolvedor Front-End apaixonado por criar experiências digitais incríveis utilizando **HTML**, **CSS** e **JavaScript**.
 
