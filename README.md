@@ -17,6 +17,7 @@ Transitei da área da saúde para programação, acreditando que nunca é tarde 
 - HTML
 - CSS
 - JavaScript
+- Node.Js
 
 ---
 Sinta-se à vontade para explorar meus repositórios e acompanhar meu desenvolvimento!
