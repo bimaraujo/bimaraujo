@@ -28,15 +28,15 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar meu desenvolvi
 
 ---
 ### 📊 Minhas Estatísticas no GitHub🚀🚀🚀🚀
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bimaraujo&show_icons=true&theme=dracula)
+![Estatísticas do Fábio](https://github-readme-stats.vercel.app/api?username=bimaraujo&show_icons=true&theme=dracula)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bimaraujo&layout=compact&theme=dracula)
 
 ---
-### 🚀 Gráfico de Contribuições
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bimaraujo&theme=dracula)
+### 🚀 Gráfico de Contribuições Do Fábio
+![Fábio´s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bimaraujo&theme=dracula)
 
 ***
-### 🏆 Troféus do GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=bimaraujo&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Troféus do Fábio
+[![Fábio´s trophy](https://github-profile-trophy.vercel.app/?username=bimaraujo&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
