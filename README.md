@@ -6,7 +6,7 @@ Sou desenvolvedor Front-End apaixonado por criar experiências digitais incríve
 
 - [Refrizão] (https://github.com/bimaraujo/refrizao): Meu projeto favorito! Confira como utilizei minhas habilidades para criar soluções criativas e funcionais.
 - [Irmãos Mario] (https://github.com/bimaraujo/irmaos-mario): Uma homenagem divertida aos clássicos dos games, desenvolvida com foco em interatividade e design.
--[ProjetoLaurind´s Café] (https://github.com/bimaraujo/Projeto-Laurindo-s-Caf-.git):Landing page de uma cafeteria, com design moderno e totalmente responsivo, desenvolvida com HTML, CSS e JavaScript.
+-[ProjetoLaurind´s Café] (https://github.com/bimaraujo/Projeto-Laurindo-s-Caf-.git):Landing page de uma cafeteria, com design moderno e totalmente responsivo.
 
 
 ## 💡 Sobre mim
