@@ -20,8 +20,8 @@ Transitei da área da saúde para programação, acreditando que nunca é tarde 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 
 ---
 Sinta-se à vontade para explorar meus repositórios e acompanhar meu desenvolvimento!
@@ -33,5 +33,10 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar meu desenvolvi
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bimaraujo&layout=compact&theme=dracula)
 
 ---
+### 🚀 Gráfico de Contribuições
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bimaraujo&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bimaraujo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+***
+### 🏆 Troféus do GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=bimaraujo&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
